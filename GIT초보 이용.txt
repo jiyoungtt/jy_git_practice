@@ -1,0 +1,20 @@
+< GIT: 서버 버젼 관리>
+
+1, GIT를 다운받는다.
+
+2, github에 새로운 repository 생성한다. ->public/private
+
+3, Root folder 연결하기
+   -원하는 위치에 폴더 생성
+   -폴더클릭후 오른쪽 버튼을 눌러 'git bash'선택하기
+   -명령어 git init 입력
+   -명령어 git remote add origin 'repository address' //repository address는 github에 생성한 repository의 주소
+
+4, 간단한 기본 명령어
+  1, pull: github에 올라와 있는 것을 가지고 온다.
+   -git pull orgin master: pull 한다.
+  2, push: github으로 올린다.
+   -git status: 현재 git과의 상태를 check한다.
+   -git add . : 변경된 파일을 트렉킹한다.
+   -git commit -m "message": 변경사항이나 추가사항 등 인식할 수 있는 commit을 달아준다.
+   -git push origin master: push한다.
