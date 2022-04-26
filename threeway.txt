@@ -1,3 +1,4 @@
 three way를 위한 파일이다
 
 1, three 1번쨰 commit
+2, three 2번째 commit
