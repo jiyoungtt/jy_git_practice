@@ -2,3 +2,4 @@ git fast forward start
 
 1, ff / 1번째 commit
 2, ff / 2번째 commit 
+3, ff / 3번째 commit
