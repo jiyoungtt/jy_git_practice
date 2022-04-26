@@ -1,0 +1,2 @@
+이것은 fast forward 용임
+1, 첫번째 commit을 진행
