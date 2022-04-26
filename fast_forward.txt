@@ -4,3 +4,7 @@
 2, 두번째 commit 진행
 
 3, 세번째 commit 진행
+
+
+이것은 3-way용임
+1, 1번쨰 commit을 진행
