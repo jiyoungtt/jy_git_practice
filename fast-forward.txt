@@ -9,3 +9,4 @@ git fast forward start
 
 git 3-way start
 1, three / 1번째 commit
+2, three / 2번째 commit
