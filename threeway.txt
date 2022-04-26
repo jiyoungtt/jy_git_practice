@@ -4,3 +4,4 @@ three way를 위한 파일이다
 2, three 2번째 commit
 
 3, master 3번째 commit
+4, master 4번째 commit
